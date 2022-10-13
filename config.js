@@ -1,8 +1,8 @@
 var config = {
 	app: {
 		name: "b",
-		url: "http://localhost:8060",
-		frontendUrl: "http://localhost:8050",
+		url: "https://apimec.netlify.app",
+		frontendUrl: "https://app01.netlify.app",
 		secret: "5c115b8f463cece5b8c9460a7f2b27dd",
 		language: "spanish",
 		publicDir: "assets",
