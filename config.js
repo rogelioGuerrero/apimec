@@ -2,7 +2,7 @@ var config = {
 	app: {
 		name: "b",
 		url: "https://apimec.netlify.app",
-		frontendUrl: "https://app01.netlify.app",
+		frontendUrl: "https://apimec.netlify.app",
 		secret: "5c115b8f463cece5b8c9460a7f2b27dd",
 		language: "spanish",
 		publicDir: "assets",
