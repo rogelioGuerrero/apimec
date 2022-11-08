@@ -18,7 +18,7 @@ app.use(cors());
 // use router
 app.use(Router);
 
-let port = process.env.PORT || 5000;
+const PORT = process.env.PORT || 3030;
 
 //start app  
 app.listen(port, () => console.log('Server is up and running on port: ' + port));
