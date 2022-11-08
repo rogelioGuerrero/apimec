@@ -21,4 +21,4 @@ app.use(Router);
 const PORT = process.env.PORT || 3030;
 
 //start app  
-app.listen(port, () => console.log('Server is up and running on port: ' + port));
+app.listen(PORT, () => console.log('Server is up and running on port: ' + PORT));
